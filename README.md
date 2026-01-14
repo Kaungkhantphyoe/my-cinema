@@ -1,3 +1,26 @@
+# CINEFLIX - Movie Web App
+
+An interactive movie discovery platform showcasing the use of modern frontend technologies.
+
+## 🛠️ Tech Stack
+
+- **Framework:** React (Vite/CRA)
+- **Language:** TypeScript (for type safety)
+- **UI Library:** Material UI (MUI v6)
+- **Icons:** Material Icons
+
+## ✨ Key Features
+
+- **Dynamic Grid:** Fully responsive movie cards using MUI Grid2.
+- **Dark Mode UI:** Professional dark-themed interface for better viewing experience.
+- **Component-Based Architecture:** Modular structure with reusable MovieCard and Navbar components.
+
+## 🚀 Installation & Setup
+
+1. Clone: `https://github.com/Kaungkhantphyoe/my-cinema.git`
+2. Install: `npm install`
+3. Start: `npm run dev` (or `npm start`)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
