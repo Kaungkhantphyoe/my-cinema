@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-cinema/static/css/main.e6c13ad2.css",
+    "main.js": "/my-cinema/static/js/main.86ad3e1c.js",
+    "static/js/453.d9a7613b.chunk.js": "/my-cinema/static/js/453.d9a7613b.chunk.js",
+    "index.html": "/my-cinema/index.html",
+    "main.e6c13ad2.css.map": "/my-cinema/static/css/main.e6c13ad2.css.map",
+    "main.86ad3e1c.js.map": "/my-cinema/static/js/main.86ad3e1c.js.map",
+    "453.d9a7613b.chunk.js.map": "/my-cinema/static/js/453.d9a7613b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86ad3e1c.js"
+  ]
+}
